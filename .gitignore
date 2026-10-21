@@ -1,0 +1,4 @@
+# 로컬 설치된 스킬(서드파티 포함)과 잠금 파일은 배포하지 않는다
+.claude/
+skills-lock.json
+node_modules/
